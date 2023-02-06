@@ -15,10 +15,13 @@
   <img style="margin-left: 10px;" align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" width="50"/>
+  
+  <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" width="50"/>
  
   <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
   <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
   
   
 </div>
