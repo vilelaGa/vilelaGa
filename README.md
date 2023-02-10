@@ -22,6 +22,8 @@
   
   <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
+  <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  
   
   
 </div>
