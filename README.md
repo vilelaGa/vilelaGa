@@ -9,20 +9,23 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img style="margin-left: 10px;" align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  <img style="margin-left: 10px;" align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" width="50"/>
   
-  <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" width="50"/>
+   <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" width="50"/>
+  
+  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
+  <img style="margin-left: 10px;" align="center" alt="nuxt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
  
   <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
-  <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img style="margin-left: 10px;" align="center" alt="tailwind" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   
-  <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" width="40"/>
+ 
+  <img style="margin-left: 10px;" align="center" alt="mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  
+  
+  <img style="margin-left: 10px;" align="center" alt="docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
   
   
